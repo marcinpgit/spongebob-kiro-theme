@@ -1,0 +1,8 @@
+{
+  "--background": "#0080FF",
+  "--primary": "#FFF200",
+  "--accent": "#FF9900",
+  "--surface": "#A0522D",
+  "--text-primary": "#FFFFFF",
+  "--text-secondary": "#E0E0E0"
+}
