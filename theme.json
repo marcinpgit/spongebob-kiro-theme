@@ -1,6 +1,7 @@
 {
   "name": "SpongeBob Bikini Bottom",
   "version": "1.0.0",
+  "formatVersion": 1,
   "type": "L0",
   "variables": {
     "--background": "#0080FF",
